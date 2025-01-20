@@ -16,7 +16,7 @@
     "expo": "~52.0.17",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.3",
+    "react-native": "^0.74.0",
     "react-native-mmkv": "^3.2.0",
     "react-native-mmkv-storage": "^0.11.2",
     "react-native-safe-area-context": "4.12.0",
@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
+    "@react-native-community/cli": "latest",
     "@react-native/eslint-plugin": "^0.75.3",
     "@types/react": "~18.3.12",
     "eslint": "^8.57.0",
